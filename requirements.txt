@@ -2,6 +2,7 @@ numpy
 pandas
 matplotlib
 seaborn
-catboost
+scikit-learn
 xgboost
+catboost
 -e .
